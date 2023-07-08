@@ -1,5 +1,5 @@
 # Constellations
-Graphic construction based in a dataset of stars and constellations
+Graphic construction based in a dataset of stars and constellations.
 
 ## 3D - Graphic
 
